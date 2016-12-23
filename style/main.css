@@ -1,0 +1,19 @@
+body{
+
+  background-color:gray;
+}
+.data-container,
+.zip{
+  text-align: center;
+}
+.temp{
+  display: inline-block;
+
+}
+.changeTemp{
+  cursor: pointer;
+  color: #0f0;
+}
+#icon{
+  width: 60px;
+}
